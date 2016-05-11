@@ -1,0 +1,10 @@
+{
+  "name": "ebs-snapshot",
+  "version": "1.0.0",
+  "main": "ebs-snapshot.js",
+  "keywords": [],
+  "author": "rmzi",
+  "dependencies": {
+    "aws-sdk": "*"
+  }
+}
